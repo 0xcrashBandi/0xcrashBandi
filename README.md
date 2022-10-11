@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Fahad 
 - 👀 CS student @KFUPM
-- 🌱 Java-Python-Linux
+- 🌱 Java-Python-Kotlin
 - 📫 s202012380@kfupm.edu.sa/KhamisFahad02@gmail.com
