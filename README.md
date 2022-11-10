@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Fahad 
-- 👀 CS student @KFUPM
-- 🌱 Java-Python-Kotlin
+- 👀 CS student @KFUPM (King Fahd University of Petroluem and Minerals)
+- 🌱 Android developer (Android Studio, Kotlin, Firebase, Java)
 - 📫 s202012380@kfupm.edu.sa/KhamisFahad02@gmail.com
